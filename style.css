@@ -1,0 +1,252 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    background-image: url('images/donation5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 525px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+
+
+
+
+}
+
+.paragraph1 {
+    color: white;
+    font-size: 70px;
+    margin-top: 50px;
+
+
+}
+
+.paragraph2 {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 20px;
+
+}
+
+.anchor {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.container1 {
+    text-align: center;
+}
+
+.container1 .paragraph3 {
+
+    font-size: 50px;
+}
+
+.container1 .paragraph4 {
+
+    font-size: 15px;
+    margin-bottom: 100px;
+
+}
+
+.container2 .box {
+
+    width: 50px;
+    height: 50px;
+    border: 2px solid white;
+    text-align: center;
+    padding: 50px 50px;
+    margin-right: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    float: left;
+
+
+
+
+}
+
+
+
+#box1 {
+    margin-left: 270px;
+}
+
+#box2 {
+    border: 3px solid red;
+    color: red;
+    background-color: #f7efd7;
+}
+
+.input {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.container3 {
+
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 600px;
+
+}
+
+.container4 {
+    text-align: center;
+}
+
+.donate {
+    font-size: 70px;
+}
+
+.things {
+    font-size: 20px;
+    margin-bottom: 100px;
+
+}
+
+.donate-things {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+
+
+
+}
+
+.donate-things1 {
+    box-shadow: 10px 10px 40px gray;
+    width: 400px;
+    height: 300px;
+
+}
+
+#things1 {
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-top: 40px;
+    background-color: #b4c2c0;
+    border-radius: 10px;
+
+}
+
+#things2 {
+    padding-left: 10px;
+    padding-top: 40px;
+    background-color: #edcad2;
+    border-radius: 10px;
+
+
+}
+
+#things3 {
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-top: 40px;
+    background-color: #d4c1ab;
+    border-radius: 10px;
+}
+
+.depend-on {
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.depend-on1 {
+    width: 60%;
+    margin-left: 70px;
+}
+
+.depend-on2 {
+    width: 70%;
+}
+
+.depend-on3 {
+    padding-bottom: 30px;
+}
+
+.depend-on4 {
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+.survive-on {
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.survive-on1 {
+
+    width: 50%;
+    padding-left: 5%;
+}
+
+.survive-on4 {
+    padding-bottom: 30px;
+}
+
+.survive-on3 {
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+
+.survive-on1 {
+    padding-right: 5%;
+}
+
+.get-my-update {
+
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.get-my-update h1 {
+    font-size: 40px;
+}
+
+.form {
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+.form2 {
+    background-color: #b4c2c0;
+    padding: 10px 25px;
+
+
+}
+
+.form1 {
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 25px;
+}
+
+.footer-area {
+    background-color: black;
+    color: orange;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
